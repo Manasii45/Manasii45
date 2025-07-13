@@ -1,53 +1,55 @@
- 
-Hi there 👋 I'm Manasii
- | 💻 Final-year Computer Engineering Student
+This looks great! Here’s a cleaned-up and formatted version of your profile based on what you provided:
+
+---
+
+## Hi there 👋 I'm Manasii | 💻 Final-year Computer Engineering Student
 
 ✨ Welcome to my GitHub profile — where ideas turn into code!
 
-🎓 Education:
-Bachelor of Engineering (B.E.) in Computer Engineering
-Dr. Babasaheb Ambedkar Technological University, Lonere
+### 🎓 Education:
 
-Diploma in Information Technology
-Government Residence Women’s Polytechnic, Tasgaon
+* **Bachelor of Engineering (B.E.) in Computer Engineering**
+  *Dr. Babasaheb Ambedkar Technological University, Lonere*
+* **Diploma in Information Technology**
+  *Government Residence Women’s Polytechnic, Tasgaon*
 
-. I’m currently working on:
-Building cool web applications using React & Node.js
+### . I’m currently working on:
 
-Learning more about DevOps and Cloud (AWS)
+* Building cool web applications using **React** & **Node.js**
+* Learning more about **DevOps** and **Cloud (AWS)**
 
-. I’m currently learning:
-Next.js
+### . I’m currently learning:
 
-TypeScript
+* **Next.js**
+* **TypeScript**
+* **Docker & Kubernetes**
+* Advanced **DSA** and **System Design**
 
-Docker & Kubernetes
+### .I’m looking to collaborate on:
 
-Advanced DSA and System Design
+* Open source projects that promote sustainability or education
+* Hackathons and community-driven tech initiatives
 
-. I’m looking to collaborate on:
-Open source projects that promote sustainability or education
+### . I’m looking for help with:
 
-Hackathons and community-driven tech initiatives
+* Improving my **contributions to open source**
+* Writing cleaner, more scalable code
 
-. I’m looking for help with:
-Improving my contributions to open source
+### 💬 Ask me about:
 
-Writing cleaner, more scalable code
+* Frontend development
+* Getting started with **Git** & **GitHub**
 
-💬 Ask me about:
-Frontend development
+### 🚀 Tech Stack:
 
-Getting started with Git & GitHub
+* **Frontend:** React, HTML, CSS, JavaScript, Tailwind CSS, Next.js
+* **Backend:** Java, Spring Boot, MySQL
+* **Tools:** Postman, Git, GitHub, VS Code, Figma
 
-. Tech Stack:
-Frontend: React, HTML, CSS, JavaScript, Tailwind CSS, Next.js
+### 📫 How to reach me:
 
-Backend: Java, Spring Boot, MySQL
+* 📧 Email: [shirkemanasi2003@example.com](mailto:shirkemanasi2003@example.com)
+ 
 
-Tools: Postman, Git, GitHub, VS Code, Figma
-
-. How to reach me:
-- Email: shirkemanasi2003@example.com  
-
-. LinkedIn
+---
+ 
