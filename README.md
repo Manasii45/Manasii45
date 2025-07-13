@@ -48,7 +48,7 @@ This looks great! Here’s a cleaned-up and formatted version of your profile ba
 
 ### 📫 How to reach me:
 
-* 📧 Email: [shirkemanasi2003@example.com](mailto:shirkemanasi2003@example.com)
+* 📧 Email: [shirkemanasi2003@gmail.com](mailto:shirkemanasi2003@gmail.com)
  
 
 ---
